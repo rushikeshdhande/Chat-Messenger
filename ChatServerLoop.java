@@ -16,7 +16,7 @@ class ChatServerLoop
         BufferedReader bobj2 = new BufferedReader(new InputStreamReader(System.in));
    
         System.out.println("-----------------------------------------");
-        System.out.println("---------- Marvellous Server ------------");
+        System.out.println("---------- Rushikesh Server ------------");
         System.out.println("-----------------------------------------");
         
         String str1 = null, str2 = null;
