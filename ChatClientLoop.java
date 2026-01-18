@@ -5,9 +5,6 @@ class ChatClientLoop
 {
     public static void main(String A[]) throws Exception
     {
-        
-
-
         Socket sobj = new Socket("localhost",5100);
         System.out.println("Client gets connected with server succesfully");
 
